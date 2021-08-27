@@ -3,7 +3,6 @@
 int main()
 {
     char str1[100] = "Hello ", str2[100] = "World";
-
     char *s1 = str1;
     char *s2 = str2;
 
